@@ -1,2 +1,2 @@
 # notion-counter
-![Page Views](https://visitor-badge.glitch.me/badge?page_id=azt156-notion-counter&style=flat&label=&color=000000&dataColor=ffffff)
+![Page Views](https://hits.seeyounexttime.com/api/latest/hits/azt156-notion-counter?style=flat&color=%23000000&labelColor=%23ffffff&label=)
