@@ -1,2 +1,2 @@
 # notion-counter
-![Page Views](https://hits.seeyounexttime.com/api/latest/hits/azt156-notion-counter?style=flat&color=%23000000&labelColor=%23ffffff&label=)
+![Page Views](https://api.visitorbadge.io/api/visitors?path=azt156.notion-counter&countColor=%23000000&style=flat)
